@@ -1,4 +1,5 @@
 CulturaPulse 🌍
+
 Your Interactive Global Cultural Intelligence App.
 
 CulturaPulse is a real-time, cross-platform mobile application built with React Native and Expo. It's designed to provide travelers, remote workers, digital nomads, and the culturally curious with instant insights into local cultures around the world. From daily language phrases and local news to etiquette tips and cultural events, CulturaPulse helps you connect more deeply with any country.
@@ -8,14 +9,25 @@ CulturaPulse is a real-time, cross-platform mobile application built with React 
 
 
 ✨ Key Features
+
 🌐 Real-Time Country Data: Get up-to-date local news, holidays, and cultural information for any country.
+
 🗣️ Daily Language Phrases: Learn a new phrase every day with Text-to-Speech (TTS) and pre-recorded audio for authentic pronunciation.
+
 📅 Interactive Events Calendar: Discover cultural events, national holidays, and local festivals.
+
 🤝 Cultural Etiquette & Insights: Access practical tips on social customs, dining etiquette, and business practices.
+
 📰 Personalized News Feed: Stay informed with top headlines from local news sources, filtered by country.
+
 🔖 Bookmarks & Personalization: Save your favorite countries for quick access and customize your experience.
+
 Modern, Animated UI: A beautiful, dark-themed interface with smooth parallax animations, blurs, and 3D-inspired card elements for an engaging user experience.
+
 Authentication: Secure user accounts powered by Supabase for syncing preferences and bookmarks across devices.
+
+
+
 📸 Screenshots & Demo
 
 
