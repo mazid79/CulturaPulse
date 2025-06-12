@@ -98,26 +98,7 @@ Scan the QR code with the Expo Go app on your phone.
 📂 Project Structure
 The project is organized into a modular structure for clarity and scalability.
 
-cultura-pulse/
-├── app/                  # Expo Router file-based routes (screens)
-│   ├── (auth)/           # Authentication screens (modal presentation)
-│   ├── (tabs)/           # Main app screens with tab bar
-│   │   ├── _layout.tsx   # Defines the tab bar
-│   │   ├── index.tsx     # Discover screen
-│   │   └── ...           # Other tab screens
-│   ├── country/          # Dynamic route for country details
-│   │   └── [id].tsx
-│   ├── _layout.tsx       # Root layout, providers
-│   └── +not-found.tsx    # Not found screen
-├── assets/               # Static assets (fonts, images, Lottie files)
-├── components/           # Reusable components shared across screens
-│   ├── ui/               # Base UI elements (Button, Card, Input, Text)
-│   └── country/          # Components specific to country data display
-├── hooks/                # Custom React hooks (e.g., useAuth, useCountryData)
-├── services/             # API clients and service integrations (api.ts, supabase.ts, tts.ts)
-├── types/                # TypeScript type definitions (index.ts)
-├── utils/                # Utility functions and theme constants (theme.ts, formatters.ts)
-└── ...                   # Config files (package.json, app.json, babel.config.js)
+
 
 
 
