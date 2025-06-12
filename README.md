@@ -17,42 +17,64 @@ CulturaPulse is a real-time, cross-platform mobile application built with React 
 Modern, Animated UI: A beautiful, dark-themed interface with smooth parallax animations, blurs, and 3D-inspired card elements for an engaging user experience.
 Authentication: Secure user accounts powered by Supabase for syncing preferences and bookmarks across devices.
 📸 Screenshots & Demo
-![Simulator Screenshot - iPhone 15 Pro Max - 2025-06-12 at 10 36 06](https://github.com/user-attachments/assets/6e6af5c4-6435-4107-b4b9-448174da0ebf)
-![Simulator Screenshot - iPhone 15 Pro Max - 2025-06-12 at 10 35 46](https://github.com/user-attachments/assets/261a84fa-3834-4f5f-abe6-1421fefcfae3)
-![Simulator Screenshot - iPhone 15 Pro Max - 2025-06-12 at 10 35 20](https://github.com/user-attachments/assets/825986c7-f0e8-4df3-95bf-78f5e5a13bc0)
-![Simulator Screenshot - iPhone 15 Pro Max - 2025-06-12 at 10 35 08](https://github.com/user-attachments/assets/508d3625-ba27-4f67-b73c-33d9a8c9f143)
+
+
+https://github.com/user-attachments/assets/6d1b0738-c016-4c33-8799-b5b3106dc2a3
+
+
 
 
 🛠️ Tech Stack
 Core Framework & Platform
 React Native: Cross-platform mobile development.
+
 Expo (SDK 50): Tooling for building and deploying React Native apps.
+
 Expo Router: File-based routing for navigation.
+
 TypeScript: For strong typing and code safety.
+
 Backend & Database
+
 Supabase: Open-source Firebase alternative for authentication and user profile storage.
 APIs & Services
 Nager.Date: For public holiday information.
 GNews.io: For real-time, country-specific news headlines.
 Curated Content: Cultural etiquette and language phrases are managed via mock data, designed to be replaced by a dedicated backend or CMS for scalability.
 UI & Styling
+
 Custom Component Library: Reusable, themed UI components (Button, Card, Input, Text).
+
 lucide-react-native: For a clean and modern icon set.
+
 React Native Animated API: For performant parallax scroll effects and animations.
+
 expo-blur: For frosted-glass/blur effects on UI elements.
+
 expo-av & expo-speech: For audio playback and Text-to-Speech functionality.
+
+
+
 🚀 Getting Started
 Follow these instructions to get a copy of the project up and running on your local machine for development and testing.
 
 Prerequisites
+
 Node.js (LTS version recommended)
+
 Yarn or npm
+
 Expo Go app on your iOS or Android device for testing.
+
 Supabase Account: You'll need to create a project on Supabase to handle authentication and user profiles.
+
+
+
 Installation & Setup
 Clone the repository:
 
 Bash
+
 
 git clone https://github.com/your-username/CulturaPulse.git
 cd CulturaPulse
