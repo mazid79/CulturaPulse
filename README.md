@@ -1,4 +1,5 @@
-CulturaPulse 🌍
+
+# CulturaPulse 🌍
 
 Your Interactive Global Cultural Intelligence App.
 
@@ -7,10 +8,9 @@ CulturaPulse is a real-time, cross-platform mobile application built with React 
 
 
 
+## ✨ Key Features
 
-✨ Key Features
-
-🌐 Real-Time Country Data: Get up-to-date local news, holidays, and cultural information for any country.
+ 🌐 Real-Time Country Data: Get up-to-date local news, holidays, and cultural information for any country.
 
 🗣️ Daily Language Phrases: Learn a new phrase every day with Text-to-Speech (TTS) and pre-recorded audio for authentic pronunciation.
 
@@ -27,17 +27,14 @@ Modern, Animated UI: A beautiful, dark-themed interface with smooth parallax ani
 Authentication: Secure user accounts powered by Supabase for syncing preferences and bookmarks across devices.
 
 
-
-📸 Screenshots & Demo
-
+## 📸 Screenshots & Demo
 
 https://github.com/user-attachments/assets/6d1b0738-c016-4c33-8799-b5b3106dc2a3
 
+## 🛠️ Tech Stack
 
-
-
-🛠️ Tech Stack
 Core Framework & Platform
+
 React Native: Cross-platform mobile development.
 
 Expo (SDK 50): Tooling for building and deploying React Native apps.
@@ -46,12 +43,18 @@ Expo Router: File-based routing for navigation.
 
 TypeScript: For strong typing and code safety.
 
+
+
 Backend & Database
 
 Supabase: Open-source Firebase alternative for authentication and user profile storage.
+
 APIs & Services
+
 Nager.Date: For public holiday information.
+
 GNews.io: For real-time, country-specific news headlines.
+
 Curated Content: Cultural etiquette and language phrases are managed via mock data, designed to be replaced by a dedicated backend or CMS for scalability.
 UI & Styling
 
