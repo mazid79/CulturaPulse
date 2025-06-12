@@ -10,9 +10,7 @@ CulturaPulse is a real-time, cross-platform mobile application built with React 
 ✨ Key Features
 🌐 Real-Time Country Data: Get up-to-date local news, holidays, and cultural information for any country.
 🗣️ Daily Language Phrases: Learn a new phrase every day with Text-to-Speech (TTS) and pre-recorded audio for authentic pronunciation.
-📅 Interactive Events Calendar: Discover cultural events, national holidays, and local festivals.![Simulator Screenshot - iPhone 15 Pro Max - 2025-06-12 at 10 36 16](https://github.com/user-attachments/assets/5f5e9370-48c7-440d-9c70-694dcd1df440)![Simulator Screenshot - iPhone 15 Pro Max - 2025-06-12 at 10 36 59](https://github.com/user-attachments/assets/80ab95e1-90ac-4fa6-9336-f9c4ed3a8353)
-![Simulator Screenshot - iPhone 15 Pro Max - 2025-06-12 at 10 36 46](https://github.com/user-attachments/assets/46510576-160a-4dfa-9b5f-3d35831b2398)
-![Simulator Screenshot - iPhone 15 Pro Max - 2025-06-12 at 10 36 32](https://github.com/user-attachments/assets/8fd030d7-6aad-434f-915f-a51ca92e0133)
+📅 Interactive Events Calendar: Discover cultural events, national holidays, and local festivals.
 🤝 Cultural Etiquette & Insights: Access practical tips on social customs, dining etiquette, and business practices.
 📰 Personalized News Feed: Stay informed with top headlines from local news sources, filtered by country.
 🔖 Bookmarks & Personalization: Save your favorite countries for quick access and customize your experience.
