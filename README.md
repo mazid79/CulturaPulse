@@ -45,7 +45,7 @@ TypeScript: For strong typing and code safety.
 
 
 
-Backend & Database
+##Backend & Database
 
 Supabase: Open-source Firebase alternative for authentication and user profile storage.
 
@@ -54,6 +54,8 @@ APIs & Services
 Nager.Date: For public holiday information.
 
 GNews.io: For real-time, country-specific news headlines.
+
+
 
 Curated Content: Cultural etiquette and language phrases are managed via mock data, designed to be replaced by a dedicated backend or CMS for scalability.
 UI & Styling
@@ -70,22 +72,22 @@ expo-av & expo-speech: For audio playback and Text-to-Speech functionality.
 
 
 
-🚀 Getting Started
+##🚀 Getting Started
 Follow these instructions to get a copy of the project up and running on your local machine for development and testing.
 
 Prerequisites
 
-Node.js (LTS version recommended)
+##Node.js (LTS version recommended)
 
-Yarn or npm
+##Yarn or npm
 
-Expo Go app on your iOS or Android device for testing.
+##Expo Go app on your iOS or Android device for testing.
 
 Supabase Account: You'll need to create a project on Supabase to handle authentication and user profiles.
 
 
 
-Installation & Setup
+##Installation & Setup
 Clone the repository:
 
 Bash
@@ -93,6 +95,8 @@ Bash
 
 git clone https://github.com/your-username/CulturaPulse.git
 cd CulturaPulse
+
+
 Install dependencies:
 
 Bash
@@ -125,19 +129,19 @@ EXPO_PUBLIC_SUPABASE_ANON_KEY=your-public-anon-key
 EXPO_PUBLIC_GNEWS_API_KEY=your-gnews-api-key
 (Note: The EXPO_PUBLIC_ prefix is required by Expo to expose variables to the client-side app.)
 
-Run the application:
+##Run the application:
 
 Bash
 
-npx expo start
+##npx expo start
 Scan the QR code with the Expo Go app on your phone.
 
-📂 Project Structure
+##📂 Project Structure
 The project is organized into a modular structure for clarity and scalability.
 
 
 
 
 
-📄 License
+##📄 License
 This project is licensed under the MIT License - see the LICENSE file for details.
