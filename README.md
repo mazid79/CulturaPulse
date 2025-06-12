@@ -72,22 +72,25 @@ expo-av & expo-speech: For audio playback and Text-to-Speech functionality.
 
 
 
-##🚀 Getting Started
+
+# 🚀 Getting Started
+
 Follow these instructions to get a copy of the project up and running on your local machine for development and testing.
 
 Prerequisites
 
-##Node.js (LTS version recommended)
+Node.js (LTS version recommended)
 
-##Yarn or npm
+Yarn or npm
 
-##Expo Go app on your iOS or Android device for testing.
+Expo Go app on your iOS or Android device for testing.
 
 Supabase Account: You'll need to create a project on Supabase to handle authentication and user profiles.
 
 
 
-##Installation & Setup
+## Installation & Setup
+
 Clone the repository:
 
 Bash
@@ -104,9 +107,11 @@ Bash
 npm install
 # or
 yarn install
-Set up Environment Variables:
 
-Create a .env file in the root of the project by copying the example:
+
+## Set up Environment Variables:
+
+- Create a .env file in the root of the project by copying the example:
 Bash
 
 cp .env.example .env
@@ -129,19 +134,27 @@ EXPO_PUBLIC_SUPABASE_ANON_KEY=your-public-anon-key
 EXPO_PUBLIC_GNEWS_API_KEY=your-gnews-api-key
 (Note: The EXPO_PUBLIC_ prefix is required by Expo to expose variables to the client-side app.)
 
-##Run the application:
+
+## Run the application:
 
 Bash
 
-##npx expo start
+npx expo start
 Scan the QR code with the Expo Go app on your phone.
 
-##📂 Project Structure
-The project is organized into a modular structure for clarity and scalability.
+
+## Contributing
+
+Contributions are always welcome!
+
+See `contributing.md` for ways to get started.
+
+Please adhere to this project's `code of conduct`.
 
 
+## 📄 License
 
-
-
-##📄 License
 This project is licensed under the MIT License - see the LICENSE file for details.
+
+[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
+
